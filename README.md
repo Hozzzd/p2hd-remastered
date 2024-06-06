@@ -22,5 +22,8 @@
 - Enjoy :)
 ## 🌟Big thank you to:
 
-- [Shockturtle](https://github.com/shockturtle) Help with identifying textures
+- [KnotSora](https://github.com/KnotSora) for sorting 80% of the textures
+- [efonte](https://github.com/efonte) and mrmemmo_ for creating the unpacking script
+- [shockturtle](https://github.com/shockturtle) for the help with identifying textures
+- [wondaoxigen](https://github.com/wondaoxigen) for providing the script to unpack those textures
 ***
